@@ -1,7 +1,6 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "SchoolHorrorGameMode.h"
-#include "SchoolHorrorCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 ASchoolHorrorGameMode::ASchoolHorrorGameMode()
